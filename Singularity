@@ -22,4 +22,5 @@ From: continuumio/miniconda3:4.5.4
    conda install --yes snakemake=5.1.4
    conda install --yes bedtools=2.27.1
    conda install --yes scipy=1.1
+   conda insatll --yes mysql=5.7.20
    conda clean --index-cache --tarballs --packages --yes
