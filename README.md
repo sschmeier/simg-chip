@@ -1,6 +1,7 @@
 # Singularity config for simg-chip container
 
 A [Singularity Hub](https://www.singularity-hub.org/) definition.
+Project specific.
 
 
 If [Singularity](http://singularity.lbl.gov) is installed locally, the container can be build (needs root access) locally like this:
